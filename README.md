@@ -213,5 +213,3 @@ Before launching any crowd-sourced civic data effort, work through these questio
 ---
 
 *"The death of truth is the ultimate victory of evil."*
-
-*"I have friends everywhere."*
