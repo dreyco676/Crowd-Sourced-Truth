@@ -6,7 +6,7 @@ When official narratives don't match what communities are seeing on the ground, 
 
 ---
 
-## Crowd Sourced Truth Materials
+## <img src="repo-assets/icon-checklist.svg" width="32" align="center"> The Planning Checklist & Crowd Sourced Truth Materials
 | Item | What It Does | Link |
 |---------|-------------|------|
 | **Planning Checklist** | Checklist for starting your own data collect effort, and Quick-Start Decision Matricies | [planning-checklist](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/planning-checklist.md) |
