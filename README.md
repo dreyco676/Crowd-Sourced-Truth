@@ -9,8 +9,8 @@ When official narratives don't match what communities are seeing on the ground, 
 ## Crowd Sourced Truth Materials
 | Item | What It Does | Link |
 |---------|-------------|------|
-| **Planning Checklist** | Checklist for starting your own data collect effort, and Quick-Start Decision Matricies | [Planning Checklist](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/Planning%20Checklist) |
-| **Crowd Sourced Truth Presentation** | Overview of previous crowd sourced data collect projects and the considerations required. | [Planning Checklist](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/Planning%20Checklist) |
+| **Planning Checklist** | Checklist for starting your own data collect effort, and Quick-Start Decision Matricies | [planning-checklist](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/planning-checklist.md) |
+| **Crowd Sourced Truth Presentation** | Overview of previous crowd sourced data collect projects and the considerations required. | [Presentation PDF](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/crowd-sourced-truth-deck.pdf) |
 ---
 
 ## Open Source Repos & Tools
