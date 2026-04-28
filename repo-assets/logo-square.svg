@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Background -->
+  <rect width="512" height="512" fill="#12121A"/>
+
+  <!-- Top accent bar -->
+  <rect x="0" y="0" width="512" height="8" fill="#D4A843"/>
+  <!-- Bottom accent bar -->
+  <rect x="0" y="504" width="512" height="8" fill="#D4A843"/>
+
+  <!-- Network nodes - centered above text -->
+  <g transform="translate(256, 170)">
+    <g opacity="0.3">
+      <line x1="-90" y1="-50" x2="0" y2="0" stroke="#D4A843" stroke-width="2"/>
+      <line x1="90" y1="-50" x2="0" y2="0" stroke="#D4A843" stroke-width="2"/>
+      <line x1="-90" y1="50" x2="0" y2="0" stroke="#D4A843" stroke-width="2"/>
+      <line x1="90" y1="50" x2="0" y2="0" stroke="#D4A843" stroke-width="2"/>
+      <line x1="-90" y1="-50" x2="-90" y2="50" stroke="#D4A843" stroke-width="2"/>
+      <line x1="90" y1="-50" x2="90" y2="50" stroke="#D4A843" stroke-width="2"/>
+      <line x1="-90" y1="-50" x2="90" y2="-50" stroke="#D4A843" stroke-width="2"/>
+      <line x1="-90" y1="50" x2="90" y2="50" stroke="#D4A843" stroke-width="2"/>
+    </g>
+    <circle cx="-90" cy="-50" r="14" fill="#D4A843"/>
+    <circle cx="90" cy="-50" r="14" fill="#D4A843"/>
+    <circle cx="-90" cy="50" r="14" fill="#D4A843"/>
+    <circle cx="90" cy="50" r="14" fill="#D4A843"/>
+    <circle cx="0" cy="0" r="22" fill="#F0C75E"/>
+  </g>
+
+  <!-- Title -->
+  <text x="256" y="320" font-family="Georgia, serif" font-size="48" font-weight="bold" fill="#E8E8EC" text-anchor="middle">
+    Crowd-Sourced
+  </text>
+  <text x="256" y="380" font-family="Georgia, serif" font-size="64" font-weight="bold" fill="#D4A843" font-style="italic" text-anchor="middle">
+    Truth
+  </text>
+
+  <!-- Accent line -->
+  <rect x="216" y="410" width="80" height="3" fill="#D4A843"/>
+
+  <!-- Subtitle -->
+  <text x="256" y="445" font-family="Calibri, Arial, sans-serif" font-size="20" fill="#8B8DA0" text-anchor="middle">
+    A field guide
+  </text>
+</svg>
