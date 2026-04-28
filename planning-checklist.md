@@ -1,3 +1,4 @@
+## <img src="repo-assets/logo-banner.svg" align="center">
 ## The Planning Checklist
 
 Before launching any crowd-sourced civic data effort, work through these questions with your team. They are not sequential; the tensions between them are features, not bugs.
