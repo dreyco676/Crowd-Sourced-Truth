@@ -1,4 +1,4 @@
-# Crowd-Sourced Truth: Resource Guide
+## <img src="repo-assets/logo-banner.svg" width="32" align="center"> Crowd-Sourced Truth: Resource Guide
 
 **A companion to the talk "Crowd-Sourced Truth: A Field Guide for Community Data Collection in Hostile Environments"**
 
