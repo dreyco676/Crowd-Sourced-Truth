@@ -1,7 +1,8 @@
-## <img src="repo-assets/logo-banner.svg" align="center">
+## <img src="repo-assets/logo-banner.png" align="center">
 ## The Planning Checklist
 
 Before launching any crowd-sourced civic data effort, work through these questions with your team. They are not sequential; the tensions between them are features, not bugs.
+![](repo-assets/divider-simple.svg "divider")
 
 ### Before You Start
 - [ ] What specific question are we answering? (Not "document everything" but "what happened, where, when?")
@@ -50,25 +51,3 @@ Before launching any crowd-sourced civic data effort, work through these questio
 - [ ] Organizer compromise: Who has backup credentials? What's the succession plan?
 
 
----
-
-## Quick-Start Decision Matrix
-
-**How much time do you have?**
-
-| Timeframe | Approach |
-|-----------|----------|
-| Hours | Deploy Ushahidi Crowdmap, set up a verified Signal group, define 3-5 structured fields |
-| Days | Stand up a KoBoToolbox survey, train 10-20 trusted monitors, establish verification protocols |
-| Weeks | Build a full platform with tiered verification, independent archiving, and distributed infrastructure |
-| Ongoing | Establish organizational structure, legal framework, succession planning, and long-term data governance |
-
-**What's your threat level?**
-
-| Threat Level | Security Posture |
-|-------------|-----------------|
-| Low (public accountability) | Standard web forms, organizational accounts, basic access controls |
-| Medium (potential legal exposure) | Encrypted channels, metadata stripping, role-based access, legal counsel |
-| High (state-level adversary) | SecureDrop/Tor-based submission, air-gapped archives, compartmentalized knowledge, operational pseudonyms |
-
----
