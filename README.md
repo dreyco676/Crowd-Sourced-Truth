@@ -2,15 +2,16 @@
 
 When official narratives don't match what communities are seeing on the ground, grassroots organizations turn to crowd-sourced data to fill the gaps. But good intentions alone don't produce reliable data. This repo provides resources to plan and execute a community driven data collection effort.
 
-## <img src="repo-assets/parent-tools.svg" width="64" align="center"> The Planning Checklist & Presentation
-## <img src="repo-assets/divider-simple.svg" align="center">
+## <img src="repo-assets/parent-checklist.svg" width="64" align="center"> The Planning Checklist & Presentation
+
 | Item | What It Does | Link |
 |---------|-------------|------|
 | **Planning Checklist** | Checklist for starting your own data collect effort, and Quick-Start Decision Matricies | [planning-checklist](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/planning-checklist.md) |
 | **Crowd Sourced Truth Presentation** | Overview of previous crowd sourced data collect projects and the considerations required. | [Presentation PDF](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/crowd-sourced-truth-deck.pdf) |
 
 
-## <img src="repo-assets/divider-simple.svg" align="center">
+
+## <img src="repo-assets/parent-tools.svg" width="64" align="center"> Open Source Repos & Tools
 
 ## Open Source Repos & Tools
 
@@ -24,7 +25,6 @@ When official narratives don't match what communities are seeing on the ground, 
 | **KoBoToolbox** | Open-source data collection for challenging environments | [github.com/kobotoolbox](https://github.com/kobotoolbox) |
 | **ODK (Open Data Kit)** | Mobile data collection for offline-capable field surveys | [github.com/getodk](https://github.com/getodk) |
 
-## <img src="repo-assets/divider-simple.svg" align="center">
 
 ### OSINT & Verification
 | Project | What It Does | Link |
@@ -34,7 +34,7 @@ When official narratives don't match what communities are seeing on the ground, 
 | **awesome-osint** | Massive curated list of OSINT tools and resources | [github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) |
 | **Verification Handbook** | Guides for verifying digital content (multiple editions) | [verificationhandbook.com](https://verificationhandbook.com) |
 
-## <img src="repo-assets/divider-simple.svg" align="center">
+
 
 ### Secure Communication & Submission
 | Project | What It Does | Link |
@@ -45,7 +45,7 @@ When official narratives don't match what communities are seeing on the ground, 
 | **OnionShare** | Secure file sharing, hosting, and chat via Tor | [github.com/onionshare/onionshare](https://github.com/onionshare/onionshare) |
 | **Briar** | Peer-to-peer encrypted messaging that works without internet | [briarproject.org](https://briarproject.org) |
 
-## <img src="repo-assets/divider-simple.svg" align="center">
+
 
 ### Archiving & Preservation
 | Project | What It Does | Link |
@@ -55,7 +55,7 @@ When official narratives don't match what communities are seeing on the ground, 
 | **Webrecorder** | High-fidelity web archiving tools | [webrecorder.net](https://webrecorder.net) |
 | **youtube-dl / yt-dlp** | Download and preserve video content | [github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) |
 
-## <img src="repo-assets/divider-simple.svg" align="center">
+
 
 ### Metadata & Privacy
 | Project | What It Does | Link |
@@ -65,7 +65,7 @@ When official narratives don't match what communities are seeing on the ground, 
 | **Tails OS** | Portable operating system for privacy and anonymity | [tails.net](https://tails.net) |
 | **Tor Browser** | Anonymous web browsing | [torproject.org](https://www.torproject.org) |
 
-## <img src="repo-assets/divider-simple.svg" align="center">
+
 
 ### Civic Tech & Data Governance
 | Project | What It Does | Link |
@@ -74,9 +74,10 @@ When official narratives don't match what communities are seeing on the ground, 
 | **CivicStack** | Repository of open-source civic tools from many countries | [github.com/CivicStack/civicstack](https://github.com/CivicStack/civicstack) |
 | **Open Civic Data** | Standards for civic data interoperability | [github.com/opencivicdata](https://github.com/opencivicdata) |
 
-## <img src="repo-assets/divider-simple.svg" align="center">
 
-## People & Organizations to Follow
+
+
+## <img src="repo-assets/parent-people.svg" width="64" align="center"> People & Organizations to Follow
 
 ### Organizations
 | Organization | Focus | Where to Find Them |
@@ -94,7 +95,6 @@ When official narratives don't match what communities are seeing on the ground, 
 | **Citizen Lab (U of Toronto)** | Surveillance, spyware, internet censorship research | [citizenlab.ca](https://citizenlab.ca) |
 | **Data & Society** | Research on data-driven social impacts | [datasociety.net](https://datasociety.net) |
 
-## <img src="repo-assets/divider-simple.svg" align="center">
 
 ### Key Researchers & Practitioners
 | Person | Area | Affiliation |
@@ -110,9 +110,9 @@ When official narratives don't match what communities are seeing on the ground, 
 | **Sam Gregory** | Video as evidence, deepfakes and human rights | Witness |
 | **Eva Galperin** | Digital security, anti-stalkerware | EFF |
 
-## <img src="repo-assets/divider-simple.svg" align="center">
 
-## Case Study Reading List
+
+## <img src="repo-assets/parent-case-studies.svg" width="64" align="center"> Case Study Reading List
 
 ### Foundational Cases
 - **Ushahidi & Kenya 2008**: [Open Source for Humanitarian Action](https://ssir.org/articles/entry/open_source_for_humanitarian_action) (Stanford Social Innovation Review)
@@ -120,7 +120,6 @@ When official narratives don't match what communities are seeing on the ground, 
 - **Bellingcat & MH17**: [The multi-year investigation](https://www.bellingcat.com/news/uk-and-europe/2019/06/19/identifying-the-separatists-linked-to-the-downing-of-mh17/) that traced the Buk missile to Russia's 53rd Brigade
 - **Syrian Archive**: [Digital Memory, Evidence, and Social Media](https://sociologica.unibo.it/article/view/15383) (Sociologica, University of Bologna)
 
-## <img src="repo-assets/divider-simple.svg" align="center">
 
 ### Recent Cases
 - **Ukraine OSINT 2022-present**: [How OSINT shaped reporting on the war in Ukraine](https://www.info-res.org/eyes-on-russia/articles/how-osint-shaped-reporting-on-the-war-in-ukraine/) (Centre for Information Resilience)
@@ -128,7 +127,6 @@ When official narratives don't match what communities are seeing on the ground, 
 - **Iran 2022**: [Azadi Archive - protest videos despite internet shutdowns](https://www.atlanticcouncil.org/blogs/iransource/mahsa-amini-access-now-iranian-archive-human-rights/) (Atlantic Council)
 - **US ICE tracking 2025**: [Community rapid response networks](https://www.citybureau.org/newswire/2025/9/5/ice-raids-chicago-how-to-get-help) and [crowd-sourced enforcement monitoring](https://restofworld.org/2025/immigration-raids-migrant-safety-apps/)
 
-## <img src="repo-assets/divider-simple.svg" align="center">
 
 ### Failure Cases
 - **Boston Marathon Reddit investigation**: The canonical warning about crowd-sourced witch hunts
@@ -136,17 +134,14 @@ When official narratives don't match what communities are seeing on the ground, 
 - **Strava heatmap**: [Fitness data exposing military installations worldwide](https://www.mapulus.com/blog/strava-fitness-tracker-military-secrets-location-data)
 - **Bridgefy app**: [Mesh networking app adopted in HK/Belarus protests lacked real security](https://www.openglobalrights.org/did-they-crack-the-code-the-importance-of-encryption-for-protest-movements/)
 
-  
-## <img src="repo-assets/divider-simple.svg" align="center">
 
-## Academic & Framework References
+## <img src="repo-assets/parent-academic.svg" width="64" align="center"> Academic & Framework References
 
 ### Standards & Protocols
 - **Berkeley Protocol on Digital Open Source Investigations** (2020) - [UC Berkeley HRC](https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/) / [UN OHCHR full text (PDF)](https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf) - First international standards for digital OSINT as legal evidence
 - **CARE Principles for Indigenous Data Governance** (Carroll et al., 2020) - [datascience.codata.org](https://datascience.codata.org/articles/dsj-2020-043) - Collective Benefit, Authority to Control, Responsibility, Ethics
 - **FAIR Data Principles** - [go-fair.org](https://www.go-fair.org/fair-principles/) - Findable, Accessible, Interoperable, Reusable
 
-## <img src="repo-assets/divider-simple.svg" align="center">
 
 ### Key Research
 - **Starbird et al.** - [Misinformation dynamics during crisis events](https://medium.com/@katestarbird) (rumor propagation faster than correction)
@@ -155,7 +150,6 @@ When official narratives don't match what communities are seeing on the ground, 
 - **Wiggins et al. (2011)** - [18 mechanisms for citizen science data quality validation](https://crowston.syr.edu/sites/crowston.syr.edu/files/PID2090593.pdf)
 - **Hargittai (2020)** - [Potential Biases in Big Data: Omitted Voices on Social Media](https://journals.sagepub.com/doi/abs/10.1177/0894439318788322) (Social Science Computer Review)
 
-## <img src="repo-assets/divider-simple.svg" align="center">
 
 ### Guides & Handbooks
 - **EFF Surveillance Self-Defense** - [ssd.eff.org](https://ssd.eff.org) - Practical digital security for activists
@@ -163,6 +157,5 @@ When official narratives don't match what communities are seeing on the ground, 
 - **ICRC: The Mosaic Effect** - [blogs.icrc.org](https://blogs.icrc.org/law-and-policy/2021/02/09/mosaic-effect-revelation-risks/) - Revelation risks of combining humanitarian and social data
 - **Verification Handbook** - [verificationhandbook.com](https://verificationhandbook.com) - Multiple editions on digital content verification
 
-## <img src="repo-assets/divider-simple.svg" align="center">
 
 *"The death of truth is the ultimate victory of evil."*
