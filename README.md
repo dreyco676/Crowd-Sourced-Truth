@@ -2,14 +2,14 @@
 
 When official narratives don't match what communities are seeing on the ground, grassroots organizations turn to crowd-sourced data to fill the gaps. But good intentions alone don't produce reliable data. This repo provides resources to plan and execute a community driven data collection effort.
 
-## <img src="repo-assets/parent-checklist.png" width="64" align="center"> The Planning Checklist & Presentation
+## <img src="repo-assets/parent-checklist.png" width="32" align="center"> The Planning Checklist & Presentation
 
 | Item | What It Does | Link |
 |---------|-------------|------|
 | **Planning Checklist** | Checklist for starting your own data collect effort, and Quick-Start Decision Matricies | [planning-checklist](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/planning-checklist.md) |
 | **Crowd Sourced Truth Presentation** | Overview of previous crowd sourced data collect projects and the considerations required. | [Presentation PDF](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/crowd-sourced-truth-deck.pdf) |
 
-## <img src="repo-assets/parent-tools.png" width="64" align="center">  Open Source Repos & Tools
+## <img src="repo-assets/parent-tools.png" width="32" align="center">  Open Source Repos & Tools
 
 ### Crisis Mapping & Data Collection
 ![](repo-assets/divider-simple.svg "divider")
@@ -75,7 +75,7 @@ When official narratives don't match what communities are seeing on the ground, 
 
 
 
-## <img src="repo-assets/parent-people.svg" width="64" align="center"> People & Organizations to Follow
+## <img src="repo-assets/parent-people.svg" width="32" align="center"> People & Organizations to Follow
 
 ### Organizations
 ![](repo-assets/divider-simple.svg "divider")
@@ -111,7 +111,7 @@ When official narratives don't match what communities are seeing on the ground, 
 | **Eva Galperin** | Digital security, anti-stalkerware | EFF |
 
 
-## <img src="repo-assets/parent-case-studies.svg" width="64" align="center"> Case Study Reading List
+## <img src="repo-assets/parent-case-studies.svg" width="32" align="center"> Case Study Reading List
 
 ### Foundational Cases
 ![](repo-assets/divider-simple.svg "divider")
@@ -137,7 +137,7 @@ When official narratives don't match what communities are seeing on the ground, 
 - **Bridgefy app**: [Mesh networking app adopted in HK/Belarus protests lacked real security](https://www.openglobalrights.org/did-they-crack-the-code-the-importance-of-encryption-for-protest-movements/)
 
 
-## <img src="repo-assets/parent-academic.svg" width="64" align="center"> Academic & Framework References
+## <img src="repo-assets/parent-academic.svg" width="32" align="center"> Academic & Framework References
 
 ### Standards & Protocols
 ![](repo-assets/divider-simple.svg "divider")
