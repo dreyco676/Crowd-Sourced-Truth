@@ -17,7 +17,7 @@ When official narratives don't match what communities are seeing on the ground, 
 
 
 ### Crisis Mapping & Data Collection
-![](repo-assets/divider-simple.svg "divider")
+![](repo-assets/divider-short.svg "divider")
 | Project | What It Does | Link |
 |---------|-------------|------|
 | **Ushahidi Platform** | Crowdsourced crisis mapping via SMS, web, email, social media | [github.com/ushahidi](https://github.com/ushahidi) |
