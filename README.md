@@ -2,14 +2,14 @@
 
 When official narratives don't match what communities are seeing on the ground, grassroots organizations turn to crowd-sourced data to fill the gaps. But good intentions alone don't produce reliable data. This repo provides resources to plan and execute a community driven data collection effort.
 
-## <img src="repo-assets/parent-checklist.svg" width="64" align="center"> The Planning Checklist & Presentation
+<h2><img src="repo-assets/parent-checklist.png" width="64" style="vertical-align: middle; margin-right: 8px;"> The Planning Checklist & Presentation</h2>
 
 | Item | What It Does | Link |
 |---------|-------------|------|
 | **Planning Checklist** | Checklist for starting your own data collect effort, and Quick-Start Decision Matricies | [planning-checklist](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/planning-checklist.md) |
 | **Crowd Sourced Truth Presentation** | Overview of previous crowd sourced data collect projects and the considerations required. | [Presentation PDF](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/crowd-sourced-truth-deck.pdf) |
 
-## <img src="repo-assets/parent-checklist.png" width="64" align="middle">  Open Source Repos & Tools
+## <img src="repo-assets/parent-tools.png" width="64" align="center">  Open Source Repos & Tools
 
 ### Crisis Mapping & Data Collection
 ![](repo-assets/divider-simple.svg "divider")
