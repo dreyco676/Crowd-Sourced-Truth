@@ -9,10 +9,7 @@ When official narratives don't match what communities are seeing on the ground, 
 | **Planning Checklist** | Checklist for starting your own data collect effort, and Quick-Start Decision Matricies | [planning-checklist](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/planning-checklist.md) |
 | **Crowd Sourced Truth Presentation** | Overview of previous crowd sourced data collect projects and the considerations required. | [Presentation PDF](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/crowd-sourced-truth-deck.pdf) |
 
-
-
-## <img src="repo-assets/parent-tools.svg" width="64" align="center"> Open Source Repos & Tools
-
+## <img src="assets/parent-checklist.png" width="64" align="middle">  Open Source Repos & Tools
 
 ### Crisis Mapping & Data Collection
 ![](repo-assets/divider-simple.svg "divider")
