@@ -163,4 +163,4 @@ When official narratives don't match what communities are seeing on the ground, 
 - **Verification Handbook** - [verificationhandbook.com](https://verificationhandbook.com) - Multiple editions on digital content verification
 
 
-#*"The death of truth is the ultimate victory of evil."*
+# *"The death of truth is the ultimate victory of evil."*
