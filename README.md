@@ -2,16 +2,20 @@
 
 When official narratives don't match what communities are seeing on the ground, grassroots organizations turn to crowd-sourced data to fill the gaps. But good intentions alone don't produce reliable data. This repo provides resources to plan and execute a community driven data collection effort.
 
-## <img src="repo-assets/divider-diamond.svg" align="center">
+
+<p align="center">
+  <img src="repo-assets/parent-tools.svg" width="64" />
+</p>
 
 ## <img src="repo-assets/icon-checklist.svg" width="32" align="center"> The Planning Checklist & Presentation
+## <img src="repo-assets/divider-simple.svg" align="center">
 | Item | What It Does | Link |
 |---------|-------------|------|
 | **Planning Checklist** | Checklist for starting your own data collect effort, and Quick-Start Decision Matricies | [planning-checklist](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/planning-checklist.md) |
 | **Crowd Sourced Truth Presentation** | Overview of previous crowd sourced data collect projects and the considerations required. | [Presentation PDF](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/crowd-sourced-truth-deck.pdf) |
 
 
-## <img src="repo-assets/divider-dots.svg" align="center">
+## <img src="repo-assets/divider-simple.svg" align="center">
 
 ## Open Source Repos & Tools
 
@@ -75,7 +79,7 @@ When official narratives don't match what communities are seeing on the ground, 
 | **CivicStack** | Repository of open-source civic tools from many countries | [github.com/CivicStack/civicstack](https://github.com/CivicStack/civicstack) |
 | **Open Civic Data** | Standards for civic data interoperability | [github.com/opencivicdata](https://github.com/opencivicdata) |
 
-## <img src="repo-assets/divider-dots.svg" align="center">
+## <img src="repo-assets/divider-simple.svg" align="center">
 
 ## People & Organizations to Follow
 
@@ -111,7 +115,7 @@ When official narratives don't match what communities are seeing on the ground, 
 | **Sam Gregory** | Video as evidence, deepfakes and human rights | Witness |
 | **Eva Galperin** | Digital security, anti-stalkerware | EFF |
 
-## <img src="repo-assets/divider-dots.svg" align="center">
+## <img src="repo-assets/divider-simple.svg" align="center">
 
 ## Case Study Reading List
 
@@ -138,7 +142,7 @@ When official narratives don't match what communities are seeing on the ground, 
 - **Bridgefy app**: [Mesh networking app adopted in HK/Belarus protests lacked real security](https://www.openglobalrights.org/did-they-crack-the-code-the-importance-of-encryption-for-protest-movements/)
 
   
-## <img src="repo-assets/divider-dots.svg" align="center">
+## <img src="repo-assets/divider-simple.svg" align="center">
 
 ## Academic & Framework References
 
