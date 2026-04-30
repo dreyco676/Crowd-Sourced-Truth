@@ -18,6 +18,7 @@ When official narratives don't match what communities are seeing on the ground, 
 ![](repo-assets/divider-simple.svg "divider")
 
 ### Crisis Mapping & Data Collection
+![](repo-assets/divider-simple.svg "divider")
 | Project | What It Does | Link |
 |---------|-------------|------|
 | **Ushahidi Platform** | Crowdsourced crisis mapping via SMS, web, email, social media | [github.com/ushahidi](https://github.com/ushahidi) |
@@ -27,7 +28,7 @@ When official narratives don't match what communities are seeing on the ground, 
 | **KoBoToolbox** | Open-source data collection for challenging environments | [github.com/kobotoolbox](https://github.com/kobotoolbox) |
 | **ODK (Open Data Kit)** | Mobile data collection for offline-capable field surveys | [github.com/getodk](https://github.com/getodk) |
 
-<img src="repo-assets/divider-simple.svg" align="left">
+![](repo-assets/divider-simple.svg "divider")
 
 
 ### OSINT & Verification
@@ -38,8 +39,7 @@ When official narratives don't match what communities are seeing on the ground, 
 | **awesome-osint** | Massive curated list of OSINT tools and resources | [github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) |
 | **Verification Handbook** | Guides for verifying digital content (multiple editions) | [verificationhandbook.com](https://verificationhandbook.com) |
 
-
-<img src="repo-assets/divider-simple.svg" align="left">
+![](repo-assets/divider-simple.svg "divider")
 
 
 ### Secure Communication & Submission
