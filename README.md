@@ -13,8 +13,6 @@ When official narratives don't match what communities are seeing on the ground, 
 
 ## <img src="repo-assets/parent-tools.svg" width="64" align="center"> Open Source Repos & Tools
 
-## Open Source Repos & Tools
-
 
 ### Crisis Mapping & Data Collection
 ![](repo-assets/divider-simple.svg "divider")
@@ -114,7 +112,6 @@ When official narratives don't match what communities are seeing on the ground, 
 | **Ory Okolloh** | Crowdsourced crisis response | Ushahidi co-founder |
 | **Sam Gregory** | Video as evidence, deepfakes and human rights | Witness |
 | **Eva Galperin** | Digital security, anti-stalkerware | EFF |
-
 
 
 ## <img src="repo-assets/parent-case-studies.svg" width="64" align="center"> Case Study Reading List
