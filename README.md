@@ -17,6 +17,7 @@ When official narratives don't match what communities are seeing on the ground, 
 
 <img src="repo-assets/divider-simple.svg" align="left">
 
+
 ### Crisis Mapping & Data Collection
 | Project | What It Does | Link |
 |---------|-------------|------|
@@ -29,6 +30,7 @@ When official narratives don't match what communities are seeing on the ground, 
 
 <img src="repo-assets/divider-simple.svg" align="left">
 
+
 ### OSINT & Verification
 | Project | What It Does | Link |
 |---------|-------------|------|
@@ -39,6 +41,7 @@ When official narratives don't match what communities are seeing on the ground, 
 
 
 <img src="repo-assets/divider-simple.svg" align="left">
+
 
 ### Secure Communication & Submission
 | Project | What It Does | Link |
@@ -52,6 +55,7 @@ When official narratives don't match what communities are seeing on the ground, 
 
 <img src="repo-assets/divider-simple.svg" align="left">
 
+
 ### Archiving & Preservation
 | Project | What It Does | Link |
 |---------|-------------|------|
@@ -63,6 +67,7 @@ When official narratives don't match what communities are seeing on the ground, 
 
 <img src="repo-assets/divider-simple.svg" align="left">
 
+
 ### Metadata & Privacy
 | Project | What It Does | Link |
 |---------|-------------|------|
@@ -73,6 +78,7 @@ When official narratives don't match what communities are seeing on the ground, 
 
 
 <img src="repo-assets/divider-simple.svg" align="left">
+
 
 ### Civic Tech & Data Governance
 | Project | What It Does | Link |
