@@ -15,7 +15,6 @@ When official narratives don't match what communities are seeing on the ground, 
 
 ## Open Source Repos & Tools
 
-![](repo-assets/divider-simple.svg "divider")
 
 ### Crisis Mapping & Data Collection
 ![](repo-assets/divider-simple.svg "divider")
@@ -28,10 +27,9 @@ When official narratives don't match what communities are seeing on the ground, 
 | **KoBoToolbox** | Open-source data collection for challenging environments | [github.com/kobotoolbox](https://github.com/kobotoolbox) |
 | **ODK (Open Data Kit)** | Mobile data collection for offline-capable field surveys | [github.com/getodk](https://github.com/getodk) |
 
-![](repo-assets/divider-simple.svg "divider")
-
 
 ### OSINT & Verification
+![](repo-assets/divider-simple.svg "divider")
 | Project | What It Does | Link |
 |---------|-------------|------|
 | **Bellingcat Investigation Toolkit** | Curated tools for open-source investigations | [bellingcat.gitbook.io/toolkit](https://bellingcat.gitbook.io/toolkit) |
@@ -39,10 +37,9 @@ When official narratives don't match what communities are seeing on the ground, 
 | **awesome-osint** | Massive curated list of OSINT tools and resources | [github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) |
 | **Verification Handbook** | Guides for verifying digital content (multiple editions) | [verificationhandbook.com](https://verificationhandbook.com) |
 
-![](repo-assets/divider-simple.svg "divider")
-
 
 ### Secure Communication & Submission
+![](repo-assets/divider-simple.svg "divider")
 | Project | What It Does | Link |
 |---------|-------------|------|
 | **SecureDrop** | Whistleblower submission system (on-premises, Tor-based) | [github.com/freedomofpress/securedrop](https://github.com/freedomofpress/securedrop) |
@@ -52,10 +49,8 @@ When official narratives don't match what communities are seeing on the ground, 
 | **Briar** | Peer-to-peer encrypted messaging that works without internet | [briarproject.org](https://briarproject.org) |
 
 
-<img src="repo-assets/divider-simple.svg" align="left">
-
-
 ### Archiving & Preservation
+![](repo-assets/divider-simple.svg "divider")
 | Project | What It Does | Link |
 |---------|-------------|------|
 | **Mnemonic (Syrian/Ukrainian/Yemeni/Sudanese Archives)** | Conflict documentation and digital evidence preservation | [mnemonic.org](https://mnemonic.org) |
@@ -64,10 +59,8 @@ When official narratives don't match what communities are seeing on the ground, 
 | **youtube-dl / yt-dlp** | Download and preserve video content | [github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) |
 
 
-<img src="repo-assets/divider-simple.svg" align="left">
-
-
 ### Metadata & Privacy
+![](repo-assets/divider-simple.svg "divider")
 | Project | What It Does | Link |
 |---------|-------------|------|
 | **ExifTool** | Read, write, and strip metadata from files | [exiftool.org](https://exiftool.org) |
@@ -76,10 +69,8 @@ When official narratives don't match what communities are seeing on the ground, 
 | **Tor Browser** | Anonymous web browsing | [torproject.org](https://www.torproject.org) |
 
 
-<img src="repo-assets/divider-simple.svg" align="left">
-
-
 ### Civic Tech & Data Governance
+![](repo-assets/divider-simple.svg "divider")
 | Project | What It Does | Link |
 |---------|-------------|------|
 | **awesome-civic-tech** | Curated list of civic tech projects and tools | [github.com/awesomelistsio/awesome-civic-tech](https://github.com/awesomelistsio/awesome-civic-tech) |
@@ -92,6 +83,7 @@ When official narratives don't match what communities are seeing on the ground, 
 ## <img src="repo-assets/parent-people.svg" width="64" align="center"> People & Organizations to Follow
 
 ### Organizations
+![](repo-assets/divider-simple.svg "divider")
 | Organization | Focus | Where to Find Them |
 |-------------|-------|-------------------|
 | **Bellingcat** | Open-source investigations, OSINT methodology | [bellingcat.com](https://www.bellingcat.com) / [Discord](https://discord.com/invite/bellingcat) |
@@ -109,6 +101,7 @@ When official narratives don't match what communities are seeing on the ground, 
 
 
 ### Key Researchers & Practitioners
+![](repo-assets/divider-simple.svg "divider")
 | Person | Area | Affiliation |
 |--------|------|-------------|
 | **Eliot Higgins** | OSINT methodology, open-source investigations | Bellingcat founder |
@@ -127,6 +120,7 @@ When official narratives don't match what communities are seeing on the ground, 
 ## <img src="repo-assets/parent-case-studies.svg" width="64" align="center"> Case Study Reading List
 
 ### Foundational Cases
+![](repo-assets/divider-simple.svg "divider")
 - **Ushahidi & Kenya 2008**: [Open Source for Humanitarian Action](https://ssir.org/articles/entry/open_source_for_humanitarian_action) (Stanford Social Innovation Review)
 - **Safecast & Fukushima 2011**: [safecast.org/about](https://safecast.org/about) - citizen radiation monitoring at scale
 - **Bellingcat & MH17**: [The multi-year investigation](https://www.bellingcat.com/news/uk-and-europe/2019/06/19/identifying-the-separatists-linked-to-the-downing-of-mh17/) that traced the Buk missile to Russia's 53rd Brigade
@@ -134,6 +128,7 @@ When official narratives don't match what communities are seeing on the ground, 
 
 
 ### Recent Cases
+![](repo-assets/divider-simple.svg "divider")
 - **Ukraine OSINT 2022-present**: [How OSINT shaped reporting on the war in Ukraine](https://www.info-res.org/eyes-on-russia/articles/how-osint-shaped-reporting-on-the-war-in-ukraine/) (Centre for Information Resilience)
 - **Belarus 2020**: [The world's first Telegram revolution](https://euromaidanpress.com/2020/08/27/how-telegram-social-media-help-fuel-protests-in-belarus/) (Euromaidan Press)
 - **Iran 2022**: [Azadi Archive - protest videos despite internet shutdowns](https://www.atlanticcouncil.org/blogs/iransource/mahsa-amini-access-now-iranian-archive-human-rights/) (Atlantic Council)
@@ -141,6 +136,7 @@ When official narratives don't match what communities are seeing on the ground, 
 
 
 ### Failure Cases
+![](repo-assets/divider-simple.svg "divider")
 - **Boston Marathon Reddit investigation**: The canonical warning about crowd-sourced witch hunts
 - **YouTube/Syria video deletions**: [200K+ conflict videos removed](https://www.cjr.org/the_media_today/youtube-takedowns-war-crimes.php) by automated moderation (Columbia Journalism Review)
 - **Strava heatmap**: [Fitness data exposing military installations worldwide](https://www.mapulus.com/blog/strava-fitness-tracker-military-secrets-location-data)
@@ -150,12 +146,14 @@ When official narratives don't match what communities are seeing on the ground, 
 ## <img src="repo-assets/parent-academic.svg" width="64" align="center"> Academic & Framework References
 
 ### Standards & Protocols
+![](repo-assets/divider-simple.svg "divider")
 - **Berkeley Protocol on Digital Open Source Investigations** (2020) - [UC Berkeley HRC](https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/) / [UN OHCHR full text (PDF)](https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf) - First international standards for digital OSINT as legal evidence
 - **CARE Principles for Indigenous Data Governance** (Carroll et al., 2020) - [datascience.codata.org](https://datascience.codata.org/articles/dsj-2020-043) - Collective Benefit, Authority to Control, Responsibility, Ethics
 - **FAIR Data Principles** - [go-fair.org](https://www.go-fair.org/fair-principles/) - Findable, Accessible, Interoperable, Reusable
 
 
 ### Key Research
+![](repo-assets/divider-simple.svg "divider")
 - **Starbird et al.** - [Misinformation dynamics during crisis events](https://medium.com/@katestarbird) (rumor propagation faster than correction)
 - **Sweeney (2000)** - Re-identification: 87% of Americans from ZIP + birthdate + gender
 - **Fang et al. / Miao et al.** - [Crowdsourcing under data poisoning attacks](https://link.springer.com/chapter/10.1007/978-3-030-49669-2_18) (adversarial robustness)
@@ -164,6 +162,7 @@ When official narratives don't match what communities are seeing on the ground, 
 
 
 ### Guides & Handbooks
+![](repo-assets/divider-simple.svg "divider")
 - **EFF Surveillance Self-Defense** - [ssd.eff.org](https://ssd.eff.org) - Practical digital security for activists
 - **Tactical Tech Security in a Box** - [securityinabox.org](https://securityinabox.org) - Digital security tools and tactics
 - **ICRC: The Mosaic Effect** - [blogs.icrc.org](https://blogs.icrc.org/law-and-policy/2021/02/09/mosaic-effect-revelation-risks/) - Revelation risks of combining humanitarian and social data
