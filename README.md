@@ -15,8 +15,7 @@ When official narratives don't match what communities are seeing on the ground, 
 
 ## Open Source Repos & Tools
 
-<img src="repo-assets/divider-simple.svg" align="left">
-
+![Divider]("repo-assets/divider-simple.svg")
 
 ### Crisis Mapping & Data Collection
 | Project | What It Does | Link |
