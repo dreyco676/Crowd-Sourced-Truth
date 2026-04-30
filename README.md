@@ -15,7 +15,7 @@ When official narratives don't match what communities are seeing on the ground, 
 
 ## Open Source Repos & Tools
 
-## <img src="repo-assets/divider-short.svg" align="left">
+<img src="repo-assets/divider-simple.svg" align="left">
 ### Crisis Mapping & Data Collection
 | Project | What It Does | Link |
 |---------|-------------|------|
@@ -26,7 +26,7 @@ When official narratives don't match what communities are seeing on the ground, 
 | **KoBoToolbox** | Open-source data collection for challenging environments | [github.com/kobotoolbox](https://github.com/kobotoolbox) |
 | **ODK (Open Data Kit)** | Mobile data collection for offline-capable field surveys | [github.com/getodk](https://github.com/getodk) |
 
-## <img src="repo-assets/divider-short.svg" align="left">
+<img src="repo-assets/divider-simple.svg" align="left">
 ### OSINT & Verification
 | Project | What It Does | Link |
 |---------|-------------|------|
@@ -36,7 +36,7 @@ When official narratives don't match what communities are seeing on the ground, 
 | **Verification Handbook** | Guides for verifying digital content (multiple editions) | [verificationhandbook.com](https://verificationhandbook.com) |
 
 
-## <img src="repo-assets/divider-short.svg" align="left">
+<img src="repo-assets/divider-simple.svg" align="left">
 ### Secure Communication & Submission
 | Project | What It Does | Link |
 |---------|-------------|------|
@@ -47,7 +47,7 @@ When official narratives don't match what communities are seeing on the ground, 
 | **Briar** | Peer-to-peer encrypted messaging that works without internet | [briarproject.org](https://briarproject.org) |
 
 
-## <img src="repo-assets/divider-short.svg" align="left">
+<img src="repo-assets/divider-simple.svg" align="left">
 ### Archiving & Preservation
 | Project | What It Does | Link |
 |---------|-------------|------|
@@ -57,7 +57,7 @@ When official narratives don't match what communities are seeing on the ground, 
 | **youtube-dl / yt-dlp** | Download and preserve video content | [github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) |
 
 
-## <img src="repo-assets/divider-short.svg" align="left">
+<img src="repo-assets/divider-simple.svg" align="left">
 ### Metadata & Privacy
 | Project | What It Does | Link |
 |---------|-------------|------|
@@ -67,7 +67,7 @@ When official narratives don't match what communities are seeing on the ground, 
 | **Tor Browser** | Anonymous web browsing | [torproject.org](https://www.torproject.org) |
 
 
-## <img src="repo-assets/divider-short.svg" align="left">
+<img src="repo-assets/divider-simple.svg" align="left">
 ### Civic Tech & Data Governance
 | Project | What It Does | Link |
 |---------|-------------|------|
