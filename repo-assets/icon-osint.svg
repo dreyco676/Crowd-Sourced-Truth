@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <g transform="translate(128, 128)">
+    
+    <g fill="none" stroke="#D4A843" stroke-width="7" stroke-linecap="round">
+      <!-- Magnifying glass circle -->
+      <circle cx="-12" cy="-12" r="46"/>
+      <!-- Handle -->
+      <line x1="20" y1="20" x2="58" y2="58"/>
+    </g>
+    <!-- Eye inside -->
+    <g transform="translate(-12, -12)" fill="none" stroke="#D4A843" stroke-width="4">
+      <path d="M -28 0 Q 0 -20 28 0 Q 0 20 -28 0 Z"/>
+      <circle cx="0" cy="0" r="8" fill="#F0C75E" stroke="none"/>
+    </g>
+  
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <g transform="translate(128, 128)">
+    
+    <g fill="none" stroke="#D4A843" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <!-- Center person -->
+      <circle cx="0" cy="-40" r="20"/>
+      <path d="M -36 40 Q -36 4 0 4 Q 36 4 36 40"/>
+      <!-- Left person (smaller, behind) -->
+      <circle cx="-52" cy="-28" r="14" stroke-width="4"/>
+      <path d="M -78 36 Q -78 8 -52 8 Q -40 8 -36 16" stroke-width="4"/>
+      <!-- Right person (smaller, behind) -->
+      <circle cx="52" cy="-28" r="14" stroke-width="4"/>
+      <path d="M 78 36 Q 78 8 52 8 Q 40 8 36 16" stroke-width="4"/>
+    </g>
+  
+  </g>
+</svg>

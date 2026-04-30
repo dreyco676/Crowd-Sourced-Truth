@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 20" width="800" height="20">
+    <defs>
+      <linearGradient id="taper" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#D4A843" stop-opacity="0"/>
+        <stop offset="20%" stop-color="#D4A843" stop-opacity="1"/>
+        <stop offset="80%" stop-color="#D4A843" stop-opacity="1"/>
+        <stop offset="100%" stop-color="#D4A843" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <line x1="40" y1="10" x2="760" y2="10" stroke="url(#taper)" stroke-width="2"/>
+  </svg>

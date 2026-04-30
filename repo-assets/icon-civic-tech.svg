@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <g transform="translate(128, 128)">
+    
+    <g fill="none" stroke="#D4A843" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <!-- Gear outer -->
+      <circle cx="0" cy="0" r="36"/>
+      <circle cx="0" cy="0" r="14" stroke-width="4"/>
+      <!-- Gear teeth -->
+      <line x1="0" y1="-36" x2="0" y2="-50" stroke-width="8"/>
+      <line x1="0" y1="36" x2="0" y2="50" stroke-width="8"/>
+      <line x1="-36" y1="0" x2="-50" y2="0" stroke-width="8"/>
+      <line x1="36" y1="0" x2="50" y2="0" stroke-width="8"/>
+      <line x1="-26" y1="-26" x2="-36" y2="-36" stroke-width="8"/>
+      <line x1="26" y1="-26" x2="36" y2="-36" stroke-width="8"/>
+      <line x1="-26" y1="26" x2="-36" y2="36" stroke-width="8"/>
+      <line x1="26" y1="26" x2="36" y2="36" stroke-width="8"/>
+    </g>
+    <!-- Building columns inside gear -->
+    <g fill="#F0C75E" stroke="none">
+      <rect x="-8" y="-8" width="4" height="16" rx="1"/>
+      <rect x="4" y="-8" width="4" height="16" rx="1"/>
+      <path d="M -12 -10 L 0 -18 L 12 -10 Z" fill="none" stroke="#F0C75E" stroke-width="2.5" stroke-linejoin="round"/>
+    </g>
+  
+  </g>
+</svg>
