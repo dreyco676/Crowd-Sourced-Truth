@@ -1,7 +1,5 @@
 ## <img src="repo-assets/logo-banner.svg" align="center">
 
-**A companion to the talk "Crowd-Sourced Truth: A Field Guide for Community Data Collection in Hostile Environments"**
-
 When official narratives don't match what communities are seeing on the ground, grassroots organizations turn to crowd-sourced data to fill the gaps. But good intentions alone don't produce reliable data. This repo provides resources to plan and execute a community driven data collection effort.
 
 ---
