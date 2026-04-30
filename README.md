@@ -2,7 +2,7 @@
 
 When official narratives don't match what communities are seeing on the ground, grassroots organizations turn to crowd-sourced data to fill the gaps. But good intentions alone don't produce reliable data. This repo provides resources to plan and execute a community driven data collection effort.
 
-<h2><img src="repo-assets/parent-checklist.png" width="64" style="vertical-align: middle; margin-right: 8px;"> The Planning Checklist & Presentation</h2>
+## <img src="repo-assets/parent-checklist.png" width="64" align="center"> The Planning Checklist & Presentation
 
 | Item | What It Does | Link |
 |---------|-------------|------|
