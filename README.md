@@ -8,7 +8,7 @@ When official narratives don't match what communities are seeing on the ground, 
 |---------|-------------|------|
 | **Quick Start Decision Matrix** | Quick-Start Decision Matricies for assessing urgency and threat level. | [quick-start-decision-matrix](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/quick-start-decision-matrix.md) |
 | **Planning Checklist** | Checklist for starting your own data collect effort. | [planning-checklist](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/planning-checklist.md) |
-| **Crowd Sourced Truth Presentation** | Overview of previous crowd sourced data collect projects and the considerations required. | [Presentation PDF](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/crowd-sourced-truth-deck.pdf) |
+| **Crowd Sourced Truth Presentation** | Overview of previous crowd sourced data collect projects and the considerations required. | [Presentation PPT](crowd-sourced-truth-deck-with-notes.pptx) |
 
 ## <img src="repo-assets/parent-tools.png" width="64" align="center">  Open Source Tools
 
