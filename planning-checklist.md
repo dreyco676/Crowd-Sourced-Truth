@@ -4,50 +4,21 @@
 Before launching any crowd-sourced civic data effort, work through these questions with your team. They are not sequential; the tensions between them are features, not bugs.
 ![](repo-assets/divider-simple.svg "divider")
 
-### Before You Start
-- [ ] What specific question are we answering? (Not "document everything" but "what happened, where, when?")
-- [ ] Does someone already collect this data? Can we join them instead?
-- [ ] Who are the domain experts and legal advocates already in this space?
-- [ ] What is our "minimum viable deployment" and how do we iterate?
+### Speed — what are you actually doing?
 
-### Speed
-- [ ] What is the simplest submission channel that works in our threat environment?
-- [ ] How much verification can we do at the speed we need?
-- [ ] Have we defined the minimum viable data point (fields, geography, time window)?
-- [ ] Do we have a tiered publication model (raw vs. verified, clearly labeled)?
+- [ ] What specific question are we answering?
+- [ ] Does someone already collect this — can we join them?
+- [ ] What's the minimum data we need, and how do we verify it?
 
-### Safety
-- [ ] Who are our adversaries and what are their capabilities?
-- [ ] What is the MINIMUM data we need to collect?
-- [ ] Are we stripping metadata at point of ingestion?
-- [ ] Have we reduced location precision to what our analysis actually needs?
-- [ ] What happens when a contributor or organizer is compromised?
-- [ ] Have we pre-established backup communication channels?
-- [ ] What are our legal exposures in relevant jurisdictions?
-- [ ] Could this data harm the people it describes?
+### Safety — who could be harmed?
 
-### Trust & Verification
-- [ ] Which verification model fits our speed and consequence tolerance?
-- [ ] How do we detect bot flooding and false reports?
-- [ ] Do we have multi-source corroboration requirements?
-- [ ] Are we accounting for geographic, demographic, survivorship, reporting, and platform biases?
+- [ ] Who benefits, and who could be hurt if this data leaks?
+- [ ] What biases does our method bake in?
+- [ ] How do we defend against the mosaic effect?
 
-### Resiliency
-- [ ] Does our data live on infrastructure we control?
-- [ ] How distributed is our architecture?
-- [ ] What is our plan for internet shutdowns?
-- [ ] How do we handle platform content moderation being weaponized against us?
-- [ ] What is our plan for infiltration and trust gaming?
+### Resiliency — can this survive?
 
-### After Collection
-- [ ] Who benefits from this data? Who controls access?
-- [ ] What are our retention policies?
-- [ ] How do we publish responsibly (aggregate, anonymize, delay)?
-- [ ] What legal obligations does this data create?
-
-### Exit Planning
-- [ ] Orderly wind-down: Who inherits the data?
-- [ ] Forced shutdown: What gets preserved vs. destroyed?
-- [ ] Organizer compromise: Who has backup credentials? What's the succession plan?
-
+- [ ] Do we control our own infrastructure?
+- [ ] What's our continuity plan when people leave?
+- [ ] How does this end — handoff, sunset, or destruction?
 
