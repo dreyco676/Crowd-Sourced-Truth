@@ -17,7 +17,7 @@ Enable disappearing messages for every conversation. The default "keep everythin
 ## <img src="repo-assets/parent-checklist.png" width="64" align="center"> Start Here
 | Item | Description |
 |------|-------------|
-| [**Quick Start Decisions**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/quick-start-decision-matrix.md) | Decision matrices for assessing urgency and threat level before you build anything. |
+| [**Quick Start Decisions**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/quickstart/quick-start-decision-matrix.md) | Decision matrices for assessing urgency and threat level before you build anything. |
 | [**Planning Checklist**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/quickstart/planning-checklist.md) | Step-by-step checklist for standing up your own data collection effort. |
 | [**Succession Planning**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/quickstart/succession-planning.md) | How to avoid single points of failure before they become crises. |
 | [**Presentation**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/quickstart/crowd-sourced-truth-deck.pptx) | Full slide deck covering case studies, the three pillars, and key tradeoffs. |
