@@ -19,72 +19,19 @@ Enable disappearing messages for every conversation. The default "keep everythin
 | Item | What It Does | Link |
 |---------|-------------|------|
 | **Quick Start Decisions** | Quick-Start Decision Matricies for assessing urgency and threat level. | [quick-start-decisions](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/quick-start-decision-matrix.md) |
-| **Planning Checklist** | Checklist for starting your own data collect effort. | [planning-checklist](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/planning-checklist.md) |
-| **Succession Planning** | Plan to avoid single points of failure. | [succession-planning](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/succession-planning.md) |
-| **Crowd Sourced Truth Presentation** | Overview of previous crowd sourced data collect projects and the considerations required. | [Presentation PPT](crowd-sourced-truth-deck.pptx) |
+| **Planning Checklist** | Checklist for starting your own data collect effort. | [planning-checklist](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/quickstart/planning-checklist.md) |
+| **Succession Planning** | Plan to avoid single points of failure. | [succession-planning](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/quickstart/succession-planning.md) |
+| **Crowd Sourced Truth Presentation** | Overview of previous crowd sourced data collect projects and the considerations required. | [Presentation PPT](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/quickstart/crowd-sourced-truth-deck.pptx) |
 
 ## <img src="repo-assets/parent-tools.png" width="64" align="center">  Open Source Tools
-
-### Crisis Mapping & Data Collection
-![](repo-assets/divider-simple.svg "divider")
-| Project | What It Does | Link |
+| Item | What It Does | Link |
 |---------|-------------|------|
-| **Ushahidi Platform** | Crowdsourced crisis mapping via SMS, web, email, social media | [github.com/ushahidi](https://github.com/ushahidi) |
-| **PYBOSSA** | Crowdsourcing framework for data that can't be processed by machines alone | [github.com/Scifabric/pybossa](https://github.com/Scifabric/pybossa) |
-| **Shareabouts** | Location-aware crowdsourcing for community input | [github.com/openplans/shareabouts](https://github.com/openplans/shareabouts) |
-| **HOT Tasking Manager** | Humanitarian OpenStreetMap Team's task management for volunteer mapping | [github.com/hotosm/tasking-manager](https://github.com/hotosm/tasking-manager) |
-| **KoBoToolbox** | Open-source data collection for challenging environments | [github.com/kobotoolbox](https://github.com/kobotoolbox) |
-| **ODK (Open Data Kit)** | Mobile data collection for offline-capable field surveys | [github.com/getodk](https://github.com/getodk) |
-
-
-### OSINT & Verification
-![](repo-assets/divider-simple.svg "divider")
-| Project | What It Does | Link |
-|---------|-------------|------|
-| **Bellingcat Investigation Toolkit** | Curated tools for open-source investigations | [bellingcat.gitbook.io/toolkit](https://bellingcat.gitbook.io/toolkit) |
-| **Bellingcat GitHub** | Open-source tools built by Bellingcat | [github.com/bellingcat](https://github.com/bellingcat) |
-| **awesome-osint** | Massive curated list of OSINT tools and resources | [github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) |
-| **Verification Handbook** | Guides for verifying digital content (multiple editions) | [verificationhandbook.com](https://verificationhandbook.com) |
-
-
-### Secure Communication & Submission
-![](repo-assets/divider-simple.svg "divider")
-| Project | What It Does | Link |
-|---------|-------------|------|
-| **SecureDrop** | Whistleblower submission system (on-premises, Tor-based) | [github.com/freedomofpress/securedrop](https://github.com/freedomofpress/securedrop) |
-| **Signal Protocol** | End-to-end encrypted messaging protocol | [github.com/signalapp](https://github.com/signalapp) |
-| **CryptPad** | Zero-knowledge encrypted forms, spreadsheets, and collaborative docs; self-hostable, no account required for contributors | [cryptpad.fr](https://cryptpad.fr) / [github.com/cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) |
-| **OnionShare** | Secure file sharing, hosting, and chat via Tor | [github.com/onionshare/onionshare](https://github.com/onionshare/onionshare) |
-| **Briar** | Peer-to-peer encrypted messaging that works without internet | [briarproject.org](https://briarproject.org) |
-
-
-### Archiving & Preservation
-![](repo-assets/divider-simple.svg "divider")
-| Project | What It Does | Link |
-|---------|-------------|------|
-| **Mnemonic (Syrian/Ukrainian/Yemeni/Sudanese Archives)** | Conflict documentation and digital evidence preservation | [mnemonic.org](https://mnemonic.org) |
-| **Wayback Machine / Internet Archive** | Web archiving | [archive.org](https://archive.org) |
-| **Webrecorder** | High-fidelity web archiving tools | [webrecorder.net](https://webrecorder.net) |
-| **youtube-dl / yt-dlp** | Download and preserve video content | [github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) |
-
-
-### Metadata & Privacy
-![](repo-assets/divider-simple.svg "divider")
-| Project | What It Does | Link |
-|---------|-------------|------|
-| **ExifTool** | Read, write, and strip metadata from files | [exiftool.org](https://exiftool.org) |
-| **MAT2** | Metadata removal tool | [0xacab.org/jvoisin/mat2](https://0xacab.org/jvoisin/mat2) / [github.com/jvoisin/mat2](https://github.com/jvoisin/mat2) |
-| **Tails OS** | Portable operating system for privacy and anonymity | [tails.net](https://tails.net) |
-| **Tor Browser** | Anonymous web browsing | [torproject.org](https://www.torproject.org) |
-
-
-### Civic Tech & Data Governance
-![](repo-assets/divider-simple.svg "divider")
-| Project | What It Does | Link |
-|---------|-------------|------|
-| **awesome-civic-tech** | Curated list of civic tech projects and tools | [github.com/awesomelistsio/awesome-civic-tech](https://github.com/awesomelistsio/awesome-civic-tech) |
-| **CivicStack** | Repository of open-source civic tools from many countries | [github.com/CivicStack/civicstack](https://github.com/CivicStack/civicstack) |
-| **Open Civic Data** | Standards for civic data interoperability | [github.com/opencivicdata](https://github.com/opencivicdata) |
+| **Crisis Mapping & Data Collection** | Ready to go platforms for data collection and mapping. | [crisis-mapping-data-collection](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/crisis-mapping-data-collection.md) |
+| **OSINT & Verification** | Open Source Intelligence and Verification Tools. | [osint-verification](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/osint-verification.md) |
+| **Secure Communication & Submission** | Encrypted communication and file sharing tools. | [secure-comms-submission](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/secure-comms-submission.md) |
+| **Archiving & Preservation** | Web archival tools and websites. | [secure-comms-submission](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/archiving-preservation.md) |
+| **Metadata & Privacy** | Tools to maintain privacy and handle metadata. | [metadata-privacy](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/resources/main/metadata-privacy.md) |
+| **Civic Tech Repos** | Other repositories of civic data information. | [other-repos](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/other-repos.md) |
 
 
 
