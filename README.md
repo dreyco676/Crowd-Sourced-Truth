@@ -2,6 +2,18 @@
 
 When official narratives don't match what communities are seeing on the ground, grassroots organizations turn to crowd-sourced data to fill the gaps. But good intentions alone don't produce reliable data. This repo provides resources to plan and execute a community driven data collection effort.
 
+## ⚠️ Secure Your Comms Before Anything Else
+
+Before you choose a platform, build a pipeline, or recruit a single contributor — secure your internal communications.
+
+**Signal is the floor, not a feature.** Every core team member should be on Signal with disappearing messages enabled before the first conversation about your effort takes place. Not after setup. Not eventually. First.
+
+Everything else in this repo assumes your internal communications are already secure. If they aren't, the tools, the checklists, and the planning templates below can't protect you.
+
+**Get Signal:** [signal.org](https://signal.org) — free, open source, available on iOS, Android, and desktop.
+
+Enable disappearing messages for every conversation. The default "keep everything forever" is not a feature -it's a liability.
+
 ## <img src="repo-assets/parent-checklist.png" width="64" align="center"> Planning Checklist
 
 | Item | What It Does | Link |
