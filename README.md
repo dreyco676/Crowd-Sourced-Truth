@@ -32,16 +32,14 @@ Enable disappearing messages for every conversation. The default "keep everythin
 | [**Metadata & Privacy**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/metadata-privacy.md) | Strip metadata, reduce identifying information, protect contributors. |
 | [**Civic Tech Repos**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/other-repos.md) | Other curated repositories of civic data tools and resources. |
 
-## Case Study Reading List
-
+## <img src="repo-assets/parent-case-studies.png" width="64" align="center"> Case Study Reading List
 | Item | Description |
 |------|-------------|
 | [**Foundational Cases**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/foundational-cases.md) | The efforts that established what works. |
 | [**Recent Cases**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/recent-cases.md) | Active and concluded efforts from the last decade. |
 | [**Failure Cases**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/failure-cases.md) | What went wrong and why. |
 
-## References & Frameworks
-
+## <img src="repo-assets/parent-academic.png" width="64" align="center"> References & Frameworks
 | Item | Description |
 |------|-------------|
 | [**Standards & Protocols**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/standards-protocols.md) | The formal frameworks that underpin responsible collection. |
