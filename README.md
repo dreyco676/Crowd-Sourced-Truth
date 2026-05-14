@@ -47,4 +47,4 @@ Enable disappearing messages for every conversation. The default "keep everythin
 | [**Guides & Handbooks**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/guides-handbooks.md) | Practical how-to resources. |
 
 
-*"The death of truth is the ultimate victory of evil."*
+## *"The death of truth is the ultimate victory of evil."*
