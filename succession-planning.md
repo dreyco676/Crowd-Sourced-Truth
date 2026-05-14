@@ -7,6 +7,10 @@ The efforts that survive aren't run by heroes. They're run by people who made th
 ## ⚠️ Before You Read Further: Secure This Document
 
 This document tells someone where your data lives, who has the keys, and how your operation is structured. In the wrong hands, it is a map for dismantling everything you built.
+- This is one of the most sensitive documents your effort will produce
+- It should be built by a small core group, not the full team
+- Contributors to this document should ideally know each other only by handles, not real names
+- Its existence should not be referenced publicly anywhere
 
 **This document must be:**
 - Stored encrypted, not in plain text on a shared drive or email thread
