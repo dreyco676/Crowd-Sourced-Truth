@@ -32,24 +32,21 @@ Enable disappearing messages for every conversation. The default "keep everythin
 | [**Metadata & Privacy**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/metadata-privacy.md) | Strip metadata, reduce identifying information, protect contributors. |
 | [**Civic Tech Repos**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/other-repos.md) | Other curated repositories of civic data tools and resources. |
 
-## <img src="repo-assets/parent-people.svg" width="64" align="center"> People & Organizations
-| Item | Description |
-|------|-------------|
-| [**Organizations**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/organizations.md) | Experienced organizations in collecting information and advocacy groups. |
-| [**Key Researchers & Practitioners**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/researchers-practitioners.md) | Key researchers and practitioners to follow. |
+## Case Study Reading List
 
-## <img src="repo-assets/parent-case-studies.svg" width="64" align="center"> Case Study Reading List
 | Item | Description |
 |------|-------------|
-| [**Foundational Cases**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/foundational-cases.md) | Experienced organizations in collecting information and advocacy groups. |
-| [**Recent Cases**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/recent-cases.md) | Key researchers and practitioners to follow. |
-| [**Failure Cases**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/failure-cases.md) | Key researchers and practitioners to follow. |
+| [**Foundational Cases**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/foundational-cases.md) | The efforts that established what works. |
+| [**Recent Cases**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/recent-cases.md) | Active and concluded efforts from the last decade. |
+| [**Failure Cases**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/failure-cases.md) | What went wrong and why. |
 
-## <img src="repo-assets/parent-academic.svg" width="64" align="center"> References & Frameworks
+## References & Frameworks
+
 | Item | Description |
 |------|-------------|
-| [**Standards & Protocols**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/standards-protocols.md) | Experienced organizations in collecting information and advocacy groups. |
-| [**Key Research**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/research.md) | Key researchers and practitioners to follow. |
-| [**Guides & Handbooks**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/guides-handbooks.md) | Key researchers and practitioners to follow. |
+| [**Standards & Protocols**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/standards-protocols.md) | The formal frameworks that underpin responsible collection. |
+| [**Key Research**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/research.md) | Academic work you should know. |
+| [**Guides & Handbooks**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/guides-handbooks.md) | Practical how-to resources. |
+
 
 *"The death of truth is the ultimate victory of evil."*
