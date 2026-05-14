@@ -1,6 +1,6 @@
 # Succession Planning for Civic Data Efforts
 
-> "The efforts that survive aren't run by heroes. They're run by people who made themselves replaceable on purpose."
+The efforts that survive aren't run by heroes. They're run by people who made themselves replaceable on purpose.
 
 ---
 
@@ -224,4 +224,3 @@ If you're reading this under pressure, start here.
 
 ---
 
-*Part of the [Crowd-Sourced Truth](https://github.com/dreyco676/Crowd-Sourced-Truth) resource guide.*
