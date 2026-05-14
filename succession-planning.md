@@ -15,7 +15,7 @@ This document tells someone where your data lives, who has the keys, and how you
 - Never printed unless that copy is controlled and can be destroyed
 
 **Recommended storage:**
-- [CryptPad](https://cryptpad.fr) — zero-knowledge encrypted, no account required for contributors, self-hostable
+- [CryptPad](https://cryptpad.fr) -zero-knowledge encrypted, no account required for contributors, self-hostable
 - A password manager with shared vault access (Bitwarden, 1Password Teams)
 - An encrypted local file (VeraCrypt) with copies held by two people in separate locations
 
@@ -27,11 +27,11 @@ This document tells someone where your data lives, who has the keys, and how you
 | | | |
 | | | |
 
-Review this list every time someone joins or leaves the core team. Revoke access when someone exits — not later, immediately.
+Review this list every time someone joins or leaves the core team. Revoke access when someone exits -not later, immediately.
 
 ---
 
-Sustainability is the silent killer of civic tech. Most efforts don't end because the mission failed — they end because the people carrying them burned out, moved on, or faced pressure they couldn't absorb alone. This document helps you plan for that before it happens.
+Sustainability is the silent killer of civic tech. Most efforts don't end because the mission failed -they end because the people carrying them burned out, moved on, or faced pressure they couldn't absorb alone. This document helps you plan for that before it happens.
 
 Fill this out **before** you need it. Once you're in a forced shutdown or crisis moment, you won't have time to think clearly about what should be preserved and what should be destroyed.
 
@@ -149,7 +149,7 @@ Do you have a legal contact pre-established? Name / org:
 ---
 
 ### Scenario C: Organizer Attrition
-*Key people burn out, leave, or are unavailable — the most common failure mode.*
+*Key people burn out, leave, or are unavailable -the most common failure mode.*
 
 **Signs to watch for (assign someone to watch for these):**
 - One person is handling more than two critical functions
@@ -220,7 +220,7 @@ If you're reading this under pressure, start here.
 
 4. **Key organizer is suddenly unavailable** → Backup for their role activates. No heroics, no single person absorbs everything. The plan exists for this reason.
 
-5. **You're burned out and can't continue** → You planned for this. Hand the role map to your backup. This is not failure — this is the plan working.
+5. **You're burned out and can't continue** → You planned for this. Hand the role map to your backup. This is not failure -this is the plan working.
 
 ---
 
