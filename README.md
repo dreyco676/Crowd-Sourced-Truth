@@ -14,7 +14,7 @@ Everything else in this repo assumes your internal communications are already se
 
 Enable disappearing messages for every conversation. The default "keep everything forever" is not a feature, it's a liability.
 
-## <img src="repo-assets/parent-checklist.png" width="64" align="center"> Planning Checklist
+## <img src="repo-assets/parent-checklist.png" width="64" align="center"> Start Here
 
 | Item | What It Does | Link |
 |---------|-------------|------|
