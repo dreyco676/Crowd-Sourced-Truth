@@ -16,23 +16,24 @@ Enable disappearing messages for every conversation. The default "keep everythin
 
 ## <img src="repo-assets/parent-checklist.png" width="64" align="center"> Start Here
 
-| Item | What It Does | Link |
-|---------|-------------|------|
-| **Quick Start Decisions** | Quick-Start Decision Matricies for assessing urgency and threat level. | [quick-start-decisions](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/quick-start-decision-matrix.md) |
-| **Planning Checklist** | Checklist for starting your own data collect effort. | [planning-checklist](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/quickstart/planning-checklist.md) |
-| **Succession Planning** | Plan to avoid single points of failure. | [succession-planning](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/quickstart/succession-planning.md) |
-| **Crowd Sourced Truth Presentation** | Overview of previous crowd sourced data collect projects and the considerations required. | [Presentation PPT](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/quickstart/crowd-sourced-truth-deck.pptx) |
+| Item | Description |
+|------|-------------|
+| [**Quick Start Decisions**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/quick-start-decision-matrix.md) | Decision matrices for assessing urgency and threat level before you build anything. |
+| [**Planning Checklist**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/quickstart/planning-checklist.md) | Step-by-step checklist for standing up your own data collection effort. |
+| [**Succession Planning**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/quickstart/succession-planning.md) | How to avoid single points of failure before they become crises. |
+| [**Presentation**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/quickstart/crowd-sourced-truth-deck.pptx) | Full slide deck covering case studies, the three pillars, and key tradeoffs. |
 
-## <img src="repo-assets/parent-tools.png" width="64" align="center">  Open Source Tools
-| Item | What It Does | Link |
-|---------|-------------|------|
-| **Crisis Mapping & Data Collection** | Ready to go platforms for data collection and mapping. | [crisis-mapping-data-collection](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/crisis-mapping-data-collection.md) |
-| **OSINT & Verification** | Open Source Intelligence and Verification Tools. | [osint-verification](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/osint-verification.md) |
-| **Secure Communication & Submission** | Encrypted communication and file sharing tools. | [secure-comms-submission](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/secure-comms-submission.md) |
-| **Archiving & Preservation** | Web archival tools and websites. | [secure-comms-submission](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/archiving-preservation.md) |
-| **Metadata & Privacy** | Tools to maintain privacy and handle metadata. | [metadata-privacy](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/resources/main/metadata-privacy.md) |
-| **Civic Tech Repos** | Other repositories of civic data information. | [other-repos](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/other-repos.md) |
 
+## <img src="repo-assets/parent-tools.png" width="64" align="center"> Open Source Tools
+
+| Item | Description |
+|------|-------------|
+| [**Crisis Mapping & Data Collection**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/crisis-mapping-data-collection.md) | Ready-to-deploy platforms for collecting and mapping community data. |
+| [**OSINT & Verification**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/osint-verification.md) | Tools for open-source investigation and verifying submissions. |
+| [**Secure Communication & Submission**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/secure-comms-submission.md) | Encrypted messaging, file sharing, and anonymous submission tools. |
+| [**Archiving & Preservation**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/archiving-preservation.md) | Tools for preserving evidence that platforms may delete. |
+| [**Metadata & Privacy**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/metadata-privacy.md) | Strip metadata, reduce identifying information, protect contributors. |
+| [**Civic Tech Repos**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/other-repos.md) | Other curated repositories of civic data tools and resources. |
 
 
 
