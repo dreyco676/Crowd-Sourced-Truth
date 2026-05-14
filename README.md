@@ -35,16 +35,14 @@ Enable disappearing messages for every conversation. The default "keep everythin
 ## <img src="repo-assets/parent-case-studies.png" width="64" align="center"> Case Study Reading List
 | Item | Description |
 |------|-------------|
-| [**Foundational Cases**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/foundational-cases.md) | The efforts that established what works. |
-| [**Recent Cases**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/recent-cases.md) | Active and concluded efforts from the last decade. |
-| [**Failure Cases**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/failure-cases.md) | What went wrong and why. |
+| [**Foundational Cases**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/foundational-cases.md) | The efforts that established what works: Ushahidi's election violence mapping in Kenya, Safecast's radiation monitoring after Fukushima, Bellingcat's MH17 investigation, and the Syrian Archive's fight to preserve conflict evidence. |
+| [**Recent Cases**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/recent-cases.md) | Active and concluded efforts from the last decade: Ukraine OSINT documentation, Belarus's Telegram-powered protests, Iran's Azadi Archive, and community-based ICE enforcement tracking in the US. |
+| [**Failure Cases**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/failure-cases.md) | What went wrong and why: the Boston Marathon Reddit witch hunt, YouTube's mass deletion of Syrian conflict videos, the Strava heatmap exposing military installations, and the Bridgefy app's false security promises. |
+
 
 ## <img src="repo-assets/parent-academic.png" width="64" align="center"> References & Frameworks
 | Item | Description |
 |------|-------------|
-| [**Standards & Protocols**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/standards-protocols.md) | The formal frameworks that underpin responsible collection. |
-| [**Key Research**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/research.md) | Academic work you should know. |
-| [**Guides & Handbooks**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/guides-handbooks.md) | Practical how-to resources. |
-
-
-## *"The death of truth is the ultimate victory of evil."*
+| [**Standards & Protocols**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/standards-protocols.md) | The formal frameworks that underpin responsible collection: the Berkeley Protocol on digital open-source evidence, the CARE Principles for data governance, and the FAIR data principles. |
+| [**Key Research**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/research.md) | Academic work you should know: Starbird on misinformation spread, Sweeney on re-identification, adversarial crowdsourcing attacks, citizen science validation methods, and bias in big data. |
+| [**Guides & Handbooks**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/guides-handbooks.md) | Practical how-to resources: EFF's Surveillance Self-Defense, Tactical Tech's Security in a Box, the ICRC's mosaic effect explainer, and the Verification Handbook for digital content. |
