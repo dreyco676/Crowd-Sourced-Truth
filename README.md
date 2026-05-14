@@ -38,65 +38,19 @@ Enable disappearing messages for every conversation. The default "keep everythin
 
 
 ## <img src="repo-assets/parent-people.svg" width="64" align="center"> People & Organizations
+| Item | Description |
+|------|-------------|
+| [**Organizations**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/organizations.md) | Experienced organizations in collecting information and advocacy groups. |
+| [**Key Researchers & Practitioners**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/researchers-practitioners.md) | Key researchers and practitioners to follow. |
 
-### Organizations
-![](repo-assets/divider-simple.svg "divider")
-| Organization | Focus | Where to Find Them |
-|-------------|-------|-------------------|
-| **Bellingcat** | Open-source investigations, OSINT methodology | [bellingcat.com](https://www.bellingcat.com) / [Discord](https://discord.com/invite/bellingcat) |
-| **Mnemonic** | Digital evidence preservation for conflict zones | [mnemonic.org](https://mnemonic.org) |
-| **Witness** | Video as evidence for human rights | [witness.org](https://www.witness.org) |
-| **Access Now** | Digital rights, emergency response for activists | [accessnow.org](https://www.accessnow.org) |
-| **EFF (Electronic Frontier Foundation)** | Digital rights, surveillance self-defense | [eff.org](https://www.eff.org) / [ssd.eff.org](https://ssd.eff.org) |
-| **Tactical Tech** | Privacy, digital security for activists | [tacticaltech.org](https://tacticaltech.org) |
-| **Freedom of the Press Foundation** | SecureDrop, press freedom tools | [freedom.press](https://freedom.press) |
-| **Centre for Information Resilience** | Open-source monitoring, Ukraine Map | [info-res.org](https://www.info-res.org) |
-| **Humanitarian OpenStreetMap Team** | Crisis mapping and volunteer coordination | [hotosm.org](https://www.hotosm.org) |
-| **Human Rights Center, UC Berkeley** | Berkeley Protocol, digital evidence standards | [humanrights.berkeley.edu](https://humanrights.berkeley.edu) |
-| **Citizen Lab (U of Toronto)** | Surveillance, spyware, internet censorship research | [citizenlab.ca](https://citizenlab.ca) |
-| **Data & Society** | Research on data-driven social impacts | [datasociety.net](https://datasociety.net) |
-
-
-### Key Researchers & Practitioners
-![](repo-assets/divider-simple.svg "divider")
-| Person | Area | Affiliation |
-|--------|------|-------------|
-| **Eliot Higgins** | OSINT methodology, open-source investigations | Bellingcat founder |
-| **Kate Starbird** | Crisis informatics, misinformation | University of Washington |
-| **Leysia Palen** | Crisis informatics, collective intelligence | CU Boulder |
-| **Hadi al Khatib** | Digital evidence preservation | Mnemonic / Syrian Archive |
-| **Patrick Meier** | Crisis mapping, humanitarian technology | WeRobotics |
-| **Latanya Sweeney** | Data privacy, re-identification research | Harvard |
-| **Johanna Wild** | OSINT tool development | Bellingcat / Harvard Nieman Fellow |
-| **Ory Okolloh** | Crowdsourced crisis response | Ushahidi co-founder |
-| **Sam Gregory** | Video as evidence, deepfakes and human rights | Witness |
-| **Eva Galperin** | Digital security, anti-stalkerware | EFF |
 
 
 ## <img src="repo-assets/parent-case-studies.svg" width="64" align="center"> Case Study Reading List
-
-### Foundational Cases
-![](repo-assets/divider-simple.svg "divider")
-- **Ushahidi & Kenya 2008**: [Open Source for Humanitarian Action](https://ssir.org/articles/entry/open_source_for_humanitarian_action) (Stanford Social Innovation Review)
-- **Safecast & Fukushima 2011**: [safecast.org/about](https://safecast.org/about) - citizen radiation monitoring at scale
-- **Bellingcat & MH17**: [The multi-year investigation](https://www.bellingcat.com/news/uk-and-europe/2019/06/19/identifying-the-separatists-linked-to-the-downing-of-mh17/) that traced the Buk missile to Russia's 53rd Brigade
-- **Syrian Archive**: [Digital Memory, Evidence, and Social Media](https://sociologica.unibo.it/article/view/15383) (Sociologica, University of Bologna)
-
-
-### Recent Cases
-![](repo-assets/divider-simple.svg "divider")
-- **Ukraine OSINT 2022-present**: [How OSINT shaped reporting on the war in Ukraine](https://www.info-res.org/eyes-on-russia/articles/how-osint-shaped-reporting-on-the-war-in-ukraine/) (Centre for Information Resilience)
-- **Belarus 2020**: [The world's first Telegram revolution](https://euromaidanpress.com/2020/08/27/how-telegram-social-media-help-fuel-protests-in-belarus/) (Euromaidan Press)
-- **Iran 2022**: [Azadi Archive - protest videos despite internet shutdowns](https://www.atlanticcouncil.org/blogs/iransource/mahsa-amini-access-now-iranian-archive-human-rights/) (Atlantic Council)
-- **US ICE tracking 2025**: [Community rapid response networks](https://www.citybureau.org/newswire/2025/9/5/ice-raids-chicago-how-to-get-help) and [crowd-sourced enforcement monitoring](https://restofworld.org/2025/immigration-raids-migrant-safety-apps/)
-
-
-### Failure Cases
-![](repo-assets/divider-simple.svg "divider")
-- **Boston Marathon Reddit investigation**: The canonical warning about crowd-sourced witch hunts
-- **YouTube/Syria video deletions**: [200K+ conflict videos removed](https://www.cjr.org/the_media_today/youtube-takedowns-war-crimes.php) by automated moderation (Columbia Journalism Review)
-- **Strava heatmap**: [Fitness data exposing military installations worldwide](https://www.mapulus.com/blog/strava-fitness-tracker-military-secrets-location-data)
-- **Bridgefy app**: [Mesh networking app adopted in HK/Belarus protests lacked real security](https://www.openglobalrights.org/did-they-crack-the-code-the-importance-of-encryption-for-protest-movements/)
+| Item | Description |
+|------|-------------|
+| [**Foundational Cases**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/foundational-cases.md) | Experienced organizations in collecting information and advocacy groups. |
+| [**Recent Cases**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/recent-cases.md) | Key researchers and practitioners to follow. |
+| [**Failure Cases**](https://github.com/dreyco676/Crowd-Sourced-Truth/blob/main/resources/failure-cases.md) | Key researchers and practitioners to follow. |
 
 
 ## <img src="repo-assets/parent-academic.svg" width="64" align="center"> References & Frameworks
